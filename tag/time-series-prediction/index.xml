@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Prediction | Shanchao Yang (杨善超)</title>
+    <link>https://yangysc.github.io/tag/time-series-prediction/</link>
+      <atom:link href="https://yangysc.github.io/tag/time-series-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series Prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shanchao Yang © 2020 </copyright>
+    <image>
+      <url>https://yangysc.github.io/images/icon_hu88c2d8a80fad92f4427bb9d018bb46d6_350615_512x512_fill_lanczos_center_2.png</url>
+      <title>Time Series Prediction</title>
+      <link>https://yangysc.github.io/tag/time-series-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Wavelet-HFCM: Complex Network Model for Time Series Prediction</title>
+      <link>https://yangysc.github.io/project/wavelet-hfcm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yangysc.github.io/project/wavelet-hfcm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
