@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shanchao Yang | Shanchao Yang (杨善超)</title>
+    <title>Shanchao Yang | Shanchao Yang 杨善超 (in Chinese)</title>
     <link>https://yangysc.github.io/author/shanchao-yang/</link>
       <atom:link href="https://yangysc.github.io/author/shanchao-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shanchao Yang</description>
@@ -17,6 +17,14 @@
       <link>https://yangysc.github.io/publication/content/publication/yang-2020-learn/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       <guid>https://yangysc.github.io/publication/content/publication/yang-2020-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series forecasting based on kernel mapping and high-order fuzzy cognitive maps</title>
+      <link>https://yangysc.github.io/publication/content/publication/yuan-2020-time/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yangysc.github.io/publication/content/publication/yuan-2020-time/</guid>
       <description></description>
     </item>
     

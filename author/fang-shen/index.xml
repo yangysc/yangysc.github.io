@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fang Shen | Shanchao Yang 杨善超 (in Chinese)</title>
+    <link>https://yangysc.github.io/author/fang-shen/</link>
+      <atom:link href="https://yangysc.github.io/author/fang-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fang Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shanchao Yang © 2020 </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yangysc.github.io/images/icon_hu88c2d8a80fad92f4427bb9d018bb46d6_350615_512x512_fill_lanczos_center_2.png</url>
+      <title>Fang Shen</title>
+      <link>https://yangysc.github.io/author/fang-shen/</link>
+    </image>
+    
+    <item>
+      <title>Time series forecasting based on kernel mapping and high-order fuzzy cognitive maps</title>
+      <link>https://yangysc.github.io/publication/content/publication/yuan-2020-time/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yangysc.github.io/publication/content/publication/yuan-2020-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
